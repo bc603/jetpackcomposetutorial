@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/configlayouts" />
             <option value="$PROJECT_DIR$/lesson2layouts" />
+            <option value="$PROJECT_DIR$/usematerialdesign" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

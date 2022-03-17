@@ -10,3 +10,4 @@ rootProject.name = "AddTextElement"
 include ':app'
 include ':lesson2layouts'
 include ':configlayouts'
+include ':usematerialdesign'
